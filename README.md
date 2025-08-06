@@ -1,6 +1,6 @@
 # MediRAG – AI‑Powered Medical Chatbot Using RAG & LLM
 
-**Description**  
+ 
 MediRAG is a medical question‑answering chatbot that combines Retrieval‑Augmented Generation (RAG) with Large Language Models (LLMs) to deliver accurate, contextually grounded medical responses. It is designed for clinicians, medical students, or health‑aware users who need reliable and explainable health guidance.
 
 ---
